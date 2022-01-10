@@ -1,0 +1,22 @@
+What is the definition of server port?
+
+	A Server Port is a number thats used to identify a transaction over
+a network by specifying both the host and the service.
+
+• What is server port range?
+
+	Server port numbers range from 0 to 65535 and port numbers 0 to 1023 are reserved 
+for privilaged services and designated as well-known ports. The port numbers specify the port 
+used by the server. 
+
+• How many bits does number above represent?
+
+	Not sure what which number you are refering to. If you are refering to the
+previous exercise when we created the droplet there is this number 147.182.154.107
+which is the IP address of my droplet I created. I know that by default DigitalOcean 
+Droplets are IPv4 addresses therefore, there are 32-bits in the IP address of my 
+Droplet.
+
+• State 10 common server ports
+
+Ten common server ports are 20, 21, 80, 110, 119, 143, 161, 194, 443, and 8080.
