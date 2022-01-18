@@ -1,0 +1,30 @@
+https://www.citytv.com/
+Domain Name Server IP: 104.98.162.53
+
+https://ca.shein.com/
+Domain Name Server IP: 96.16.60.23
+
+Domain Name Server IP: 96.16.60.22
+
+Domain Name Server IP: 96.16.60.14
+
+https://www.forever21.ca/
+Domain Name Server IP: 23.227.38.74
+
+https://www.thestar.com/?redirect=true
+Domain Name Server IP: 13.32.87.88
+
+Domain Name Server IP: 13.32.87.97
+
+Domain Name Server IP: 13.32.87.39
+
+Domain Name Server IP: 13.32.87.105
+
+https://www.buzzfeed.com/ca
+Domain Name Server IP: 151.101.2.114
+
+Domain Name Server IP: 151.101.66.114
+
+Domain Name Server IP: 151.101.130.114
+
+Domain Name Server IP: 151.101.194.114

@@ -1,0 +1,89 @@
+Domain Information
+Domain:
+business.com
+Registrar:
+Amazon Registrar, Inc.
+Registered On:
+1998-04-30
+Expires On:
+2024-03-20
+Updated On:
+2019-04-17
+Status:
+clientTransferProhibited
+Name Servers:
+ns-1278.awsdns-31.org
+ns-1710.awsdns-21.co.uk
+ns-346.awsdns-43.com
+ns-641.awsdns-16.net
+
+Domain:
+lasvegas.com
+Registrar:
+Network Solutions, LLC
+Registered On:
+1997-10-10
+Expires On:
+2031-10-09
+Updated On:
+2021-10-09
+Status:
+clientTransferProhibited
+Name Servers:
+ns5.vegas.com
+ns6.vegas.com
+
+Domain:
+insurance.com
+Registrar:
+GoDaddy.com, LLC
+Registered On:
+1994-06-30
+Expires On:
+2022-01-08
+Updated On:
+2020-02-12
+Status:
+clientDeleteProhibited
+clientRenewProhibited
+clientTransferProhibited
+clientUpdateProhibited
+Name Servers:
+ns-1442.awsdns-52.org
+ns-1809.awsdns-34.co.uk
+ns-374.awsdns-46.com
+ns-546.awsdns-04.net
+
+
+Name
+GoDaddy.com, LLC
+Whois Server
+whois.godaddy.com
+Referral URL
+https://www.godaddy.com
+Status
+clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+clientRenewProhibited https://icann.org/epp#clientRenewProhibited
+clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+
+Domain:
+voice.com
+Registrar:
+MarkMonitor Inc.
+Registered On:
+2001-08-30
+Expires On:
+2022-08-30
+Updated On:
+2020-09-22
+Status:
+clientDeleteProhibited
+clientTransferProhibited
+clientUpdateProhibited
+serverDeleteProhibited
+serverTransferProhibited
+serverUpdateProhibited
+Name Servers:
+adam.ns.cloudflare.com
+asa.ns.cloudflare.com
